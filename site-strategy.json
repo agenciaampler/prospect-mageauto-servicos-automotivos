@@ -1,0 +1,78 @@
+{
+    "hero_badge": "Oficina no Água Verde · 4,8 no Google",
+    "hero_line": "Mecânica de confiança em Curitiba. Diagnóstico honesto e orçamento pelo WhatsApp.",
+    "services_headline": "O que resolvemos no seu carro",
+    "services_intro": "Serviços completos para Fiat, Chevrolet, VW, Renault, Hyundai, Toyota, Honda e Nissan. Explicamos tudo antes de mexer.",
+    "split_headline": "Seu carro avaliado com calma, sem empurrar serviço",
+    "confidence_headline": "Por que 355 clientes avaliaram com 4,8 estrelas",
+    "location_headline": "Fácil de chegar: Água Verde, coração de Curitiba",
+    "steps_headline": "Como funciona, do contato à entrega",
+    "faq_headline": "Perguntas frequentes",
+    "service_cards": [
+        {
+            "title": "Diagnóstico",
+            "body": "Scanner e avaliação completa para achar a causa real do problema. Você recebe o laudo explicado em linguagem simples.",
+            "icon": "ph-gauge"
+        },
+        {
+            "title": "Freios e suspensão",
+            "body": "Pastilhas, discos, amortecedores e alinhamento. Segurança em primeiro lugar, com peças de procedência.",
+            "icon": "ph-steering-wheel"
+        },
+        {
+            "title": "Revisão preventiva",
+            "body": "Troca de óleo, filtros, correias e checagem geral. Evita dor de cabeça e mantém a garantia do seu carro em dia.",
+            "icon": "ph-wrench"
+        }
+    ],
+    "benefits": [
+        {
+            "title": "Orçamento claro antes de começar",
+            "body": "Nada de surpresa na hora de pagar. Você aprova cada item pelo WhatsApp, com foto e valor.",
+            "icon": "ph-check-circle"
+        },
+        {
+            "title": "Especialistas em carros populares",
+            "body": "Experiência com as marcas mais rodadas do Brasil: Fiat, Chevrolet, VW, Renault e mais.",
+            "icon": "ph-car"
+        },
+        {
+            "title": "Atendimento rápido no WhatsApp",
+            "body": "Mande a placa e o problema. Respondemos com orientação e previsão de horário para atender.",
+            "icon": "ph-whatsapp-logo"
+        }
+    ],
+    "faq": [
+        {
+            "question": "Preciso agendar ou posso chegar direto?",
+            "answer": "Recomendamos chamar no WhatsApp antes. Assim garantimos horário e o mecânico certo para o seu carro, sem espera desnecessária."
+        },
+        {
+            "question": "Vocês atendem quais marcas de carro?",
+            "answer": "Fiat, Chevrolet, Volkswagen, Renault, Hyundai, Toyota, Honda e Nissan, entre outras. Se tiver dúvida, é só perguntar no WhatsApp."
+        },
+        {
+            "question": "O orçamento é cobrado?",
+            "answer": "A avaliação inicial é conversada caso a caso. Você recebe o orçamento detalhado e só autorizamos o serviço com o seu ok."
+        },
+        {
+            "question": "Onde fica a oficina e qual o horário?",
+            "answer": "Estamos na R. Alferes Ângelo Sampaio, 495, Água Verde, Curitiba. Confira o horário atualizado e trace a rota pelo botão do mapa."
+        }
+    ],
+    "image_direction": {
+        "hero_mobile": "Mecânico sorrindo ao lado de carro popular elevado, oficina limpa, luz natural de dia claro e seco, enquadramento vertical com espaço superior para texto.",
+        "hero_desktop": "Vista ampla da oficina organizada com dois carros populares em elevadores, dia claro, tons frios de Curitiba, sem placas ou logos visíveis.",
+        "service_1": "Close das mãos do mecânico com scanner automotivo conectado ao painel, interior do carro iluminado, foco nítido no equipamento.",
+        "service_2": "Detalhe de troca de pastilha de freio com roda removida, ferramentas organizadas, chão seco e limpo, luz de dia.",
+        "trust": "Atendente entregando chave a cliente distinta (mulher, 40+), ambos sorrindo em recepção simples e clara, dia seco, sem logos falsos.",
+        "og_image": "Fachada genérica de oficina em rua arborizada estilo Água Verde, céu azul, carro popular estacionado, sem placas legíveis, corte 1200x630."
+    },
+    "quality_checks": [
+        "Validar contraste WCAG AA nos botões (amarelo #F4C430 apenas com texto escuro) e CTA de WhatsApp fixo e visível no mobile.",
+        "Conferir schema LocalBusiness/AutoRepair com endereço, avaliação, FAQ e link de rota, estruturando o site para ser bem lido por buscadores e IAs.",
+        "Revisar toda a copy: acentuação correta, frases curtas, zero promessa de posição garantida no Google ou em respostas de IA."
+    ],
+    "created_by": "zenmux:anthropic/claude-fable-5",
+    "created_at": "2026-07-02T20:30:33-03:00"
+}
